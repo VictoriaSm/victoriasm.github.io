@@ -1,0 +1,21 @@
+{
+  "name": "Viktoriia Smirnova",
+  "short_name": "ViktoriiaSm",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#fff",
+  "description": "Frontend Developer. Viktoriia Smirnova's personal website",
+  "icons": [
+    {
+      "src": "/images//android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images//android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
